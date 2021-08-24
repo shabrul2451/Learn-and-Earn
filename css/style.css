@@ -1,0 +1,75 @@
+.container{
+    margin-bottom: 50px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.price{
+    color: #FF136F;
+}
+.new-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+/* Vision Card Items */
+.vision{
+    text-align: center;
+    padding: 10px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+.vision img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+}
+/* Our Platforms */
+.platforms{
+    text-align: center;
+    padding: 10px;
+}
+.platforms img{
+    width: 50%;
+}
+/* About Us */
+.about{
+    text-align: center;
+    padding: 10px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+.about img{
+    width: 300px
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 8px;
+}
+/* Footer */
+/* Group Study */
+.create-group-study{
+    background-color: #27CCBC;
+    color: white;
+    border-radius: 8px;
+    padding: 50px;
+}
+.group-study span{
+    color: orange;
+}
