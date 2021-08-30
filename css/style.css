@@ -1,6 +1,18 @@
 .container{
     margin-bottom: 50px;
 }
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.nav-item:hover, .dropdown-item:hover{
+    background-color: #27CCBC;
+}
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
