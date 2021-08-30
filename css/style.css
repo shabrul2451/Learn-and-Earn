@@ -1,87 +1,95 @@
-.container{
-    margin-bottom: 50px;
+.container {
+    margin-top: 50px;
+  margin-bottom: 50px;
+}
+.navbar{
+    padding: 10px;
 }
 .carousel-item {
-    height: 65vh;
-    min-height: 350px;
-    background: no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-.nav-item:hover, .dropdown-item:hover{
-    background-color: #27CCBC;
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-.orange-bg{
-    background-color: #fceae8;
-    border-radius: 10px;
+.nav-item:hover,
+.dropdown-item:hover {
+  background-color: #27ccbc;
 }
-.carousel-item{
-    padding: 20px 20px;
+.orange-bg {
+  background-color: #fceae8;
+  border-radius: 10px;
 }
-.price{
-    color: #FF136F;
+.carousel-item {
+  padding: 20px 20px;
 }
-.new-button{
-    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
-    color: white;
-    border-radius: 8px;
-    padding: 9px 25px;
-    border: none;
+.price {
+  color: #ff136f;
+}
+.new-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff4b92 100%);
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
 }
 /* Vision Card Items */
-.vision{
-    text-align: center;
-    padding: 10px;
+.vision {
+  text-align: center;
+  padding: 10px;
 }
 .center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
- }
-.vision img{
-    width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-.card{
-    border: none;
-    box-shadow: 5px 5px 10px lightgray;
-    border-radius: 8px;
+.vision img {
+  width: 100px;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 8px;
 }
 /* Our Platforms */
-.platforms{
-    text-align: center;
-    padding: 10px;
+.platforms {
+  text-align: center;
+  padding: 10px;
 }
-.platforms img{
-    width: 50%;
+.platforms img {
+  width: 50%;
 }
 /* About Us */
-.about{
-    text-align: center;
-    padding: 10px;
+.about {
+  text-align: center;
+  padding: 10px;
 }
 .center-block {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
- }
-.about img{
-    width: 350px
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-.card{
-    border: none;
-    box-shadow: 5px 5px 10px lightgray;
-    border-radius: 8px;
+.about img {
+  width: 350px;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+  border-radius: 8px;
 }
 /* Footer */
 /* Group Study */
-.create-group-study{
-    background-color: #27CCBC;
-    color: white;
-    border-radius: 8px;
-    padding: 50px;
+.create-group-study {
+  background-color: #27ccbc;
+  color: white;
+  border-radius: 8px;
+  padding: 50px;
 }
-.group-study span{
-    color: orange;
+.group-study span {
+  color: orange;
+}
+.post-everything {
+  padding: 20px;
 }
